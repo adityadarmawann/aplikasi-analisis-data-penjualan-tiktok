@@ -4,4 +4,4 @@ matplotlib
 seaborn
 python-dateutil
 plotly
-sklearn
+scikit-learn
